@@ -1,0 +1,226 @@
+﻿{
+    "pt-BR":  {
+                  "meta":  {
+                               "title":  "Portfólio DW | Enzo Araújo e Jamylle Woicjiekowski",
+                               "description":  "Portfólio acadêmico de desenvolvimento web da equipe Enzo Araújo e Jamylle Woicjiekowski."
+                           },
+                  "nav":  {
+                              "home":  "Início",
+                              "library":  "Acervo",
+                              "projects":  "Projetos",
+                              "team":  "Equipe",
+                              "contact":  "Contato"
+                          },
+                  "hero":  {
+                               "eyebrow":  "Desenvolvimento Web",
+                               "title":  "Construindo conhecimento.",
+                               "highlight":  "Compartilhando resultados.",
+                               "description":  "Portfólio acadêmico e profissional da equipe com estudos, atividades, avaliações e projetos.",
+                               "explore":  "Explorar o acervo",
+                               "projects":  "Ver projetos",
+                               "team":  "Conhecer a equipe",
+                               "building":  "equipe em desenvolvimento"
+                           },
+                  "stats":  {
+                                "evaluations":  "Provas e avaliações",
+                                "activities":  "Atividades práticas",
+                                "projects":  "Projetos",
+                                "members":  "Integrantes"
+                            },
+                  "library":  {
+                                  "eyebrow":  "Acervo acadêmico",
+                                  "title":  "Avaliações e atividades",
+                                  "description":  "Trabalhos organizados por categoria, disciplina, tecnologia e status.",
+                                  "filters":  {
+                                                  "all":  "Todos",
+                                                  "evaluations":  "Provas",
+                                                  "activities":  "Atividades"
+                                              },
+                                  "types":  {
+                                                "evaluation":  "Prova / Avaliação",
+                                                "activity":  "Atividade"
+                                            }
+                              },
+                  "projects":  {
+                                   "eyebrow":  "Portfólio prático",
+                                   "title":  "Projetos desenvolvidos",
+                                   "description":  "Aplicações e interfaces criadas pela equipe.",
+                                   "cardLabel":  "Projeto",
+                                   "total":  "projetos desenvolvidos"
+                               },
+                  "team":  {
+                               "eyebrow":  "Equipe",
+                               "title":  "Quem desenvolve",
+                               "members":  {
+                                               "enzo":  {
+                                                            "name":  "Enzo Araújo",
+                                                            "role":  "Desenvolvimento Front-end",
+                                                            "description":  "Participação direta em HTML, CSS, JavaScript, interfaces, funcionalidades, testes, responsividade e desempenho.",
+                                                            "skills":  [
+                                                                           "HTML",
+                                                                           "CSS",
+                                                                           "JavaScript",
+                                                                           "Front-end"
+                                                                       ]
+                                                        },
+                                               "jamylle":  {
+                                                               "name":  "Jamylle Woicjiekowski",
+                                                               "role":  "Arquitetura, organização e desenvolvimento",
+                                                               "description":  "Planeja a arquitetura, organiza a navegação, o UX/UI, as tarefas, melhorias e decisões técnicas.",
+                                                               "skills":  [
+                                                                              "Arquitetura",
+                                                                              "UX/UI",
+                                                                              "Organização",
+                                                                              "Desenvolvimento"
+                                                                          ]
+                                                           }
+                                           }
+                           },
+                  "organization":  {
+                                       "eyebrow":  "Planejamento",
+                                       "title":  "Organização do projeto",
+                                       "description":  "Estrutura usada pela equipe para manter o trabalho organizado.",
+                                       "structure":  {
+                                                         "title":  "Planejamento e proposta",
+                                                         "text":  "Planejamos o projeto, definimos objetivos e apresentamos mockups para a aprovação do cliente antes do desenvolvimento."
+                                                     },
+                                       "tasks":  {
+                                                     "title":  "Desenvolvimento do site",
+                                                     "text":  "A criação acontece em etapas, com atualizações sobre o andamento, os recursos entregues e próximos ajustes."
+                                                 },
+                                       "future":  {
+                                                      "title":  "Negociação da proposta",
+                                                      "text":  "O projeto, o prazo, o investimento e as necessidades do cliente são analisados juntos para chegar a uma negociação justa para ambas as partes."
+                                                  },
+                                       "agreement":  {
+                                                         "title":  "Contrato e compromisso",
+                                                         "text":  "Depois da negociação, o combinado é formalizado em contrato com responsabilidades, prazos e entregas claras para cliente e desenvolvedor."
+                                                     }
+                                   },
+                  "contact":  {
+                                  "eyebrow":  "Contato",
+                                  "title":  "Vamos conversar?",
+                                  "description":  "Os canais oficiais serão adicionados pela equipe assim que estiverem disponíveis.",
+                                  "back":  "Voltar ao início",
+                                  "whatsapp":  "Tire suas dúvidas",
+                                  "instagram":  "Instagram",
+                                  "github":  "GitHub"
+                              },
+                  "empty":  {
+                                "library":  "Nenhuma prova ou atividade cadastrada.",
+                                "projects":  "Nenhum projeto cadastrado ainda."
+                            }
+              },
+    "en":  {
+               "meta":  {
+                            "title":  "Web Development Portfolio | Enzo Araújo and Jamylle Woicjiekowski",
+                            "description":  "Academic web development portfolio by Enzo Araújo and Jamylle Woicjiekowski."
+                        },
+               "nav":  {
+                           "home":  "Home",
+                           "library":  "Library",
+                           "projects":  "Projects",
+                           "team":  "Team",
+                           "contact":  "Contact"
+                       },
+               "hero":  {
+                            "eyebrow":  "Web Development",
+                            "title":  "Building knowledge.",
+                            "highlight":  "Sharing results.",
+                            "description":  "Academic and professional portfolio featuring studies, activities, assessments, and projects.",
+                            "explore":  "Explore the library",
+                            "projects":  "View projects",
+                            "team":  "Meet the team",
+                            "building":  "team in development"
+                        },
+               "stats":  {
+                             "evaluations":  "Assessments",
+                             "activities":  "Practical activities",
+                             "projects":  "Projects",
+                             "members":  "Team members"
+                         },
+               "library":  {
+                               "eyebrow":  "Academic library",
+                               "title":  "Assessments and activities",
+                               "description":  "Work organized by category, subject, technology, and status.",
+                               "filters":  {
+                                               "all":  "All",
+                                               "evaluations":  "Assessments",
+                                               "activities":  "Activities"
+                                           },
+                               "types":  {
+                                             "evaluation":  "Assessment",
+                                             "activity":  "Activity"
+                                         }
+                           },
+               "projects":  {
+                                "eyebrow":  "Practical portfolio",
+                                "title":  "Developed projects",
+                                "description":  "Applications and interfaces created by the team.",
+                                "cardLabel":  "Project",
+                                "total":  "developed projects"
+                            },
+               "team":  {
+                            "eyebrow":  "Team",
+                            "title":  "Who builds",
+                            "members":  {
+                                            "enzo":  {
+                                                         "name":  "Enzo Araújo",
+                                                         "role":  "Front-end Development",
+                                                         "description":  "Direct participation in HTML, CSS, JavaScript, interfaces, features, testing, responsiveness, and performance.",
+                                                         "skills":  [
+                                                                        "HTML",
+                                                                        "CSS",
+                                                                        "JavaScript",
+                                                                        "Front-end"
+                                                                    ]
+                                                     },
+                                            "jamylle":  {
+                                                            "name":  "Jamylle Woicjiekowski",
+                                                            "role":  "Architecture, organization and development",
+                                                            "description":  "Plans the architecture, organizes navigation, UX/UI, tasks, improvements, and technical decisions.",
+                                                            "skills":  [
+                                                                           "Architecture",
+                                                                           "UX/UI",
+                                                                           "Organization",
+                                                                           "Development"
+                                                                       ]
+                                                        }
+                                        }
+                        },
+               "organization":  {
+                                    "eyebrow":  "Planning",
+                                    "title":  "Project organization",
+                                    "description":  "Structure used by the team to keep the work organized.",
+                                    "structure":  {
+                                                      "title":  "Planning and proposal",
+                                                      "text":  "We plan the project, define its goals, and present mockups for client approval before development."
+                                                  },
+                                    "tasks":  {
+                                                  "title":  "Website development",
+                                                  "text":  "Creation happens in stages, with updates about progress, delivered features, and upcoming adjustments."
+                                              },
+                                    "future":  {
+                                                   "title":  "Proposal negotiation",
+                                                   "text":  "Project scope, deadlines, investment, and client needs are reviewed together to reach a fair agreement for both parties."
+                                               },
+                                    "agreement":  {
+                                                      "title":  "Contract and commitment",
+                                                      "text":  "After negotiation, the agreement is formalized with clear responsibilities, deadlines, and deliverables for both client and developer."
+                                                  }
+                                },
+               "contact":  {
+                               "eyebrow":  "Contact",
+                               "title":  "Let\u0027s talk?",
+                               "description":  "Official channels will be added by the team when available.",
+                               "back":  "Back to top",
+                               "whatsapp":  "Ask your questions",
+                               "instagram":  "Instagram",
+                               "github":  "GitHub"
+                           },
+               "empty":  {
+                             "library":  "No assessments or activities registered.",
+                             "projects":  "No projects registered yet."
+                         }
+           }
+}
